@@ -1,13 +1,122 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-05-03T21:54:55-04:00</updated><id>/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2017/10/16/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-10-16T12:19:13-04:00</published><updated>2017-10-16T12:19:13-04:00</updated><id>/jekyll/update/2017/10/16/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2017/10/16/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Y D</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://starry99.github.io/catbook/</link>
+    <atom:link href="http://starry99.github.io/catbook/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 04 May 2021 15:56:09 -0400</pubDate>
+    <lastBuildDate>Tue, 04 May 2021 15:56:09 -0400</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>A High School Syllabus for Asian American Studies</title>
+        <description>&lt;p&gt;I developed this syllabus in the summer of 2020 as a course for high schoolers to better understand how they fit into Asian American history, to create a healthy, encouraging space to discuss topics like sexuality and civic engagement, and to learn about how our choices and actions today have an impact.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;This iteration of the syllabus is meant to center the experiences of Asian American students (target age high school) and emphasize discussion and sharing of experience. Topics include Black Lives Matter, sexuality, and media literacy, and ideally the course would be held in person with lecture time minimized and discussion time maximized.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;!--excerpt--&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;I have not yet had a chance to teach this as I am still looking for a home for it - if you know of a Chinese school or community that would be interested please reach out! Also, please let me know if you are interested in using the syllabus or have borrowed from it, I would love to hear about how it went and how you would refine it.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 May 2020 00:00:00 -0400</pubDate>
+        <link>http://starry99.github.io/catbook/2020-05/syllabus</link>
+        <guid isPermaLink="true">http://starry99.github.io/catbook/2020-05/syllabus</guid>
+        
+        
+        <category>teaching</category>
+        
+      </item>
+    
+      <item>
+        <title>RF Hybrid Amplifier</title>
+        <description>&lt;p&gt;In 2019 I left my doctoral program at the University of Colorado Boulder with my M.S. in Electromagnetics Engineering and four years of research experience in hybrid solid-state power amplifier design. During my time there, I presented at two conferences and contributed to two T-MTT papers. Forever grateful to have worked with my colleagues in the department and to have been advised and funded by my supporting advisor Dr. Taylor Barton and main advisor Dr. Zoya Popovic!&lt;/p&gt;
+&lt;!--excerpt--&gt;
+&lt;p&gt;I also taught summer classes to middle-schoolers in optics, electromagnetics, and Arduino circuits and was awarded my department’s Community Development Award twice for my work as an organizer for the Women in ECEE student interest group. Graduate school was an incredibly powerful and difficult experience, but I came away with a delight and newfound appreciation for teaching and teachers, III-V power amplifier design knowledge from the best of the best, and an ability to do Keysight ADS shenanigans like nobody’s business.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;h2&gt;Carrier Aggregation Signal Testing&lt;/h2&gt;
+&lt;p&gt;This T-MTT journal paper uses the dual-band dual-load amplifier previously presented at RWW 2018 as a test piece for Dr. Tommaso Cappello’s novel signal generating algorithm.&lt;/p&gt;
+
+&lt;h2&gt;Dual-band Dual-Load Amplifier&lt;/h2&gt;
+&lt;p&gt;This paper was presented at URSI and RWW 2018, and details a 3.5/5.9 GHz output matching network I designed for a 6W Cree device and power-added efficiency.&lt;/p&gt;
+
+&lt;p&gt;I measured the best PAE after the paper submission deadline but was able to present it at the conferences. My output power ultimately was  36.7/37.1 dBm  at the 3.5/5.9GHz respectively, and PAE of  40.4%/39.9%  with a 5% frequency shift in the upper band.&lt;/p&gt;
+
+&lt;p&gt;Read more: &quot;A 3.5/5.9-GHz Dual-Band Output Matching Network for an Efficiency-Optimized Multiband Power Amplifier,” A. Duh, S. Rahimizadeh, T. Barton, and Z. Popovic, in IEEE Topical Conf. on Power Amplifiers for Wireless and Radio Applications, Anaheim, CA, 2018.&lt;/p&gt;
+
+&lt;p&gt;Contributed to:
+P. Bluem, A. Kiruluta. P.F. Van de Moortele, A. Duh, G. Adriany, and Z. Popovic, Patch-Probe Excitation for Ultrahigh Magnetic Field Wide-Bore MRI,” in IEEE Transactions on Microwave Theory and Techniques, vol. 65, no. 7, pp. 2547-2557, July 2017.&lt;/p&gt;
+
+&lt;p&gt;I contributed work and writing on HFSS numerical solver settings and analysis&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 04 May 2019 00:00:00 -0400</pubDate>
+        <link>http://starry99.github.io/catbook/2019-05/phd_research</link>
+        <guid isPermaLink="true">http://starry99.github.io/catbook/2019-05/phd_research</guid>
+        
+        
+        <category>graduate-work</category>
+        
+      </item>
+    
+      <item>
+        <title>CU Science Discovery</title>
+        <description>&lt;p&gt;From 2016 to 2017, I taught two courses each summer through CU Science Discovery. This was my first experience teaching out of college and I was so impressed with the creativity of my students! I had a lot of fun learning how to develop curriculums and give interesting lectures with hands-on modules.
+&lt;!--excerpt--&gt;&lt;/p&gt;
+&lt;h2&gt; LEGO Mindstorm Robotics [2016]&lt;/h2&gt;
+&lt;h3&gt; Class 1 : Girls in STEM &lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt; Students: 9&lt;/li&gt;
+	&lt;li&gt; Project-based: I encouraged them to work together and shoot higher with multiple bots - for example, one group made their bots take turns in progressing through a boardgame.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt; Class 2 : Skinner Middle School Summer Academic Focused Education (SAFE) Program&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt; Students: 29&lt;/li&gt;
+	&lt;li&gt; Modified LEGO Curriculum: The SAFE course was based on LEGO's &quot;Mission to Space&quot; course material; I rotated groups of students through multiple &quot;mission&quot; modules and asked them to problem-solve how to use their sensors in conjunction with the movement of bots to push buttons, track color, and keep their bot from toppling over. There were also must-have &quot;battle-bot&quot; sessions. Using the LabVIEW-based GUI, I worked with them through concepts of code planning, logic flow, sensor I/O, and more to solve puzzles that I tailored to each class.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In both courses, I made sure to show the students videos of lesser-known giants in STEM, such as Margaret Hamilton and Mae Jemison.&lt;/p&gt;
+
+&lt;h2&gt;Sparkfun Makerspace [2017]&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt; Students: 15&lt;/li&gt;
+	&lt;li&gt; Project-based: This class had no curriculum prescribed, so I chose to build the Luminch One lamp with the students. We worked through introductory Arduino tutorials, and I lectured briefly on basic Ohm's Law and breadboarding techniques. Each of the students was able to take home a lamp that, with a microcontroller connected, responded to an infrared distance sensor.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Electromagnetics [2017]&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt; Students: 20&lt;/li&gt;
+	&lt;li&gt; Hands-on demo-based: This course is a hands-on demo-based course that lets students get their hands on physical examples of electromagnetics and dive deeper than school curriculums might normally provide. Each day, the students broke into 3 groups that would rotate through modules each day, which included polarization, diffraction, measuring wavelength (with slinkies and marshmallows) as well as lab tours that I arranged with various professors and students in the CU ECEE department. They also were able to expose their own holograms with Dr. Cho's help! The curriculum for this course was developed years ago by Dr. Suehyun Cho and Dr. Jake Friedlein for CU Science Discovery in partnership with an Upward Bound-type program sponsored by CU and Professor Juliet Gopinath.
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 04 May 2017 00:00:00 -0400</pubDate>
+        <link>http://starry99.github.io/catbook/2017-05/ms-teaching</link>
+        <guid isPermaLink="true">http://starry99.github.io/catbook/2017-05/ms-teaching</guid>
+        
+        
+        <category>teaching</category>
+        
+      </item>
+    
+      <item>
+        <title>Developing community at CU-Boulder ECEE</title>
+        <description>&lt;p&gt;The Women in ECEE group in the CU Engineering School is very near and dear to my heart. It is a space where undergraduate and graduate students can ask each other for their thoughts and experiences with networking or conferences, and have opportunities to talk with professors about the intricacies of academic environments. I was an organizer for WIECEE from 2016-2018 and was awarded the Community Development Award in 2017 and 2018.
+&lt;!--excerpt--&gt;&lt;/p&gt;
+
+&lt;p&gt;As the lead organizer of WIECEE, I worked with Professor Juliet Gopinath and other student groups to bring a speaker or two each semester, as well as host bi-weekly coffee hours for students to talk and exchange ideas. Each year, the group volunteers at science outreach events such as CU’s Family  Engineering Day. The WIECEE group was generously funded by the CU ECEE department.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 04 May 2016 00:00:00 -0400</pubDate>
+        <link>http://starry99.github.io/catbook/2016-05/WIECEE</link>
+        <guid isPermaLink="true">http://starry99.github.io/catbook/2016-05/WIECEE</guid>
+        
+        
+        <category>graduate-work</category>
+        
+      </item>
+    
+  </channel>
+</rss>

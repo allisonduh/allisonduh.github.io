@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+
+
+
+<head>
+  <title>Rf Work | A Y D</title>
+  
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="author" content="allison duh">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="/assets/css/main.css" media="all">
+  <link rel="canonical" href="http://starry99.github.io/catbook/category/graduate-work">
+  <link rel="alternate" type="application/rss+xml" title="A Y D"
+    href="/feed.xml" />
+
+  <!-- favicon -->
+  <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon" />
+  <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon" />
+
+  <!-- font -->
+  <link href="https://fonts.googleapis.com/css?family=Titillium+Web:400,400i" rel="stylesheet">
+</head>
+
+<body>
+  <div class="content">
+
+    <header class="header">
+
+  <div class="header_content">
+    <label class="theme_changer">
+      <input theme_toggle type="checkbox">
+      <div class="button"></div>
+    </label>
+    <a class="header_circle" href="/">
+      <img src="/assets/img/cat.jpg" alt="allison">
+    </a>
+    <span class="header_name">allison duh</span>
+    <span class="header_job">pronounced "do" like "just do it"</span>
+    <span class="header_mes"></span>
+
+    <nav class="nav">
+      
+      <ul class="nav_list">
+        <li class="nav_item">
+          <a href="/aboutme.html">about</a>
+        </li>
+      </ul>
+      
+      
+      
+      <ul class="nav_list">
+        <li class="nav_item">
+          <a href="/category/graduate-work.html" id="aa">graduate-work
+            (2)</a>
+        </li>
+      </ul>
+      
+      
+      <ul class="nav_list">
+        <li class="nav_item">
+          <a href="/category/teaching.html" id="aa">teaching
+            (2)</a>
+        </li>
+      </ul>
+      
+    </nav>
+  </div>
+
+</header>
+
+
+
+    <nav class="mobile_menu">
+
+  <ul class="nav_list">
+    
+    <li class="nav_item">
+      <a href="/aboutme.html">about</a>
+    </li>
+
+    
+    
+    
+
+    <li class="nav_item">
+      <a href="/categories/graduate-work" id="aa">graduate-work (2)</a>
+    </li>
+    
+    
+
+    <li class="nav_item">
+      <a href="/categories/teaching" id="aa">teaching (2)</a>
+    </li>
+    
+  </ul>
+
+</nav>
+    
+    <main class="main">
+
+    <div class="post">
+    <h2>Filed Under <small>#graduate-work</small></h2>
+        <ul>
+
+    <li>
+      <a href="/2019-05/phd_research">RF Hybrid Amplifier</a>
+      <p><p>In 2019 I left my doctoral program at the University of Colorado Boulder with my M.S. in Electromagnetics Engineering and four years of research experience in hybrid solid-state power amplifier design. During my time there, I presented at two conferences and contributed to two T-MTT papers. Forever grateful to have worked with my colleagues in the department and to have been advised and funded by my supporting advisor Dr. Taylor Barton and main advisor Dr. Zoya Popovic!</p>
+</p>
+    </li>
+
+    <li>
+      <a href="/2016-05/WIECEE">Developing community at CU-Boulder ECEE</a>
+      <p><p>The Women in ECEE group in the CU Engineering School is very near and dear to my heart. It is a space where undergraduate and graduate students can ask each other for their thoughts and experiences with networking or conferences, and have opportunities to talk with professors about the intricacies of academic environments. I was an organizer for WIECEE from 2016-2018 and was awarded the Community Development Award in 2017 and 2018.</p>
+</p>
+    </li>
+
+</ul>
+
+</div>
+
+
+
+    </main>
+
+  </div>
+
+  <footer class="footer">
+  <div>
+    &copy; 2021 allison duh.
+    Powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a>.
+    Get this theme
+    <a href="https://github.com/starry99/catbook" target="_blank">here</a>.
+  </div>
+</footer>
+
+  <!-- js from https://codepen.io/MrGrigri/pen/XQmWBv -->
+
+<script>
+    const themePreference = () => {
+        const hasLocalStorage = localStorage.getItem('theme');
+        let supports = false;
+        let theme = undefined;
+
+        if (hasLocalStorage === 'light') {
+            theme = 'light';
+        }
+        if (hasLocalStorage === 'dark') {
+            theme = 'dark';
+        }
+
+        if (window.matchMedia(`(prefers_color: dark)`).matches) {
+            theme = hasLocalStorage ? hasLocalStorage : 'dark';
+            supports = true;
+        };
+        if (window.matchMedia(`(prefers_color: light)`).matches) {
+            theme = hasLocalStorage ? hasLocalStorage : 'light';
+            supports = true;
+        };
+        if (window.matchMedia(`(prefers_color: no-preference)`).matches) {
+            theme = hasLocalStorage ? hasLocalStorage : 'none';
+            supports = true;
+        };
+
+        return {
+            supports,
+            theme
+        };
+    }
+
+    document.addEventListener('DOMContentLoaded', e => {
+        console.clear();
+
+        const userThemePreference = themePreference();
+        const toggle = document.querySelector('[theme_toggle]');
+        const html = document.documentElement;
+
+        const setTheme = () => {
+            switch (userThemePreference.theme) {
+                case 'dark':
+                    toggle.checked = true;
+                    html.classList.add('dark');
+                    html.classList.remove('light');
+                    break;
+                case 'light':
+                    toggle.checked = false;
+                    html.classList.remove('dark');
+                    html.classList.add('light');
+                    break;
+            }
+        }
+        setTheme();
+        toggle.addEventListener('click', e => {
+            if (toggle.checked) {
+                html.classList.add('dark');
+                html.classList.remove('light');
+                localStorage.setItem('theme', 'dark');
+            } else {
+                html.classList.remove('dark');
+                html.classList.add('light');
+                localStorage.setItem('theme', 'light');
+            }
+        }, false);
+    }, false);
+</script>
+</body>
+</html>
