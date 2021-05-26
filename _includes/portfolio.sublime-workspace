@@ -1,0 +1,832 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"na",
+				"names_list"
+			],
+			[
+				"last_page",
+				"last_page_number"
+			],
+			[
+				"product",
+				"product_names"
+			],
+			[
+				"nutri",
+				"nutristats_list"
+			],
+			[
+				"ingred",
+				"ingredients_list"
+			],
+			[
+				"scrap",
+				"scrape_product_pages"
+			],
+			[
+				"beatu",
+				"beautifulsoup4"
+			],
+			[
+				"beau",
+				"beautifulsoup4"
+			],
+			[
+				"vsmall",
+				"vsmall_b_range"
+			],
+			[
+				"d_",
+				"d_v"
+			],
+			[
+				"v",
+				"vsmall_b_range"
+			],
+			[
+				"vbi",
+				"vbig_b_range"
+			],
+			[
+				"vbig",
+				"vbig_a_range"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "archive.html",
+			"settings":
+			{
+				"buffer_size": 1215,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_category/rf-work.md",
+			"settings":
+			{
+				"buffer_size": 63,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"Basic Builder - PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/customCondaVenv.sublime-build",
+					""
+				],
+				[
+					"Packages/User/customCondaVenv.sublime-build",
+					"Run all Tests"
+				]
+			],
+			[
+				"Packages/User/customCondaVenv.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 136.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				" package",
+				"Package Control: Add Channel"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"require",
+				"Set Syntax: requirements.txt"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"virtua",
+				"Virtualenv: New"
+			],
+			[
+				"acti",
+				"Virtualenv: Activate"
+			],
+			[
+				"virtual",
+				"Virtualenv: New"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"conda ",
+				"Conda: List Packages"
+			],
+			[
+				"conda install",
+				"Conda: Install Package"
+			],
+			[
+				"conda act",
+				"Conda: Activate Environment"
+			],
+			[
+				"conda ac",
+				"Conda: Add Channel Source"
+			],
+			[
+				"conda",
+				"Conda: List Packages"
+			],
+			[
+				"activ",
+				"Conda: Activate Environment"
+			],
+			[
+				" conda",
+				"Conda: Activate Environment"
+			],
+			[
+				"conda list",
+				"Conda: List Packages"
+			],
+			[
+				"activa",
+				"Conda: Activate Environment"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Channel"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"file view",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				" remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"google",
+				"Google Spell Check"
+			],
+			[
+				"spell",
+				"Google Spell Check"
+			],
+			[
+				"spellche",
+				"Google Spell Check"
+			],
+			[
+				"bib",
+				"CiteBibTeX: Extract citations in current file"
+			],
+			[
+				"packageresource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				" install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 448.0
+	},
+	"console":
+	{
+		"height": 154.0,
+		"history":
+		[
+			"latex makebst",
+			"ls",
+			"cd ..",
+			"latexdiff",
+			"bibtex thesis_bib.bib",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_category",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_data",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_includes",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_posts",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/categories"
+	],
+	"file_history":
+	[
+		"/Users/ayduh/Documents/03 - Creativity/Boulder Creek Proj/arcane-harbor-41651/Boulder Creek Floataboat.py",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_posts/2021-05-04-WIECEE.md",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_posts/2021-05-04-phd_research.md",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_posts/2021-05-04-syllabus.md",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_posts/2021-05-04-ms-teaching.md",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_layouts/default.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_site/categories/teaching.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_category/rf-work.md",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_includes/archive.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/categories/teaching.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_posts/2021-05-04-wiecee.md",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_category/building.md",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/categories/rf-work.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_includes/post_preview.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_layouts/category.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_config.yml",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_site/404.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_category/teaching.md",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_includes/header.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/index.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_site/category/building.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_ideas/wiecee.md",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_ideas/ms-teaching.md",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/categories/building.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/ms-teaching.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_layouts/idea.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_ideas/scidisc.md",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_category/rf.md",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_posts/2018-08-20-bananas.md",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_ideas/rf-work.md",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_includes/navigation.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/rf-work.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/wiecee.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/categories/service.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_layouts/page.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_site/aboutme.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/aboutme.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_site/index.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/assets/css/styles.scss",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_includes/analytics.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_layouts/post.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_sass/main.scss",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/about.md",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_data/navigation.yml",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/portfolio.sublime-project",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/blog.html",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_posts/2021-05-04-test.md",
+		"/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_posts/2017-10-16-welcome-to-jekyll.markdown",
+		"/Users/ayduh/chewySpooder/app/models/product.rb",
+		"/Users/ayduh/chewySpooder/db/seeds.rb",
+		"/Users/ayduh/chewySpooder/app/models/scraper.rb",
+		"/Users/ayduh/chewySpooder/app/views/products/_form.html.erb",
+		"/Users/ayduh/chewySpooder/app/views/products/index.html.erb",
+		"/Users/ayduh/chewySpooder/app/controllers/products_controller.rb",
+		"/Users/ayduh/chewySpooder/db/migrate/20210429190124_create_products.rb",
+		"/Users/ayduh/chewySpooder/config/routes.rb",
+		"/Users/ayduh/chewySpooder/node_modules/base/index.js",
+		"/Users/ayduh/chewySpooder/app/models/application_record.rb",
+		"/Users/ayduh/chewySpooder/lib/tasks/chewySpooder.rake",
+		"/Users/ayduh/chewySpooder/config/schedule.rb",
+		"/Users/ayduh/chewySpooder/config/database.yml",
+		"/Users/ayduh/chewySpooder/node_modules/coa/lib/opt.js",
+		"/Users/ayduh/Documents/03 - Creativity/Boulder Creek Proj/arcane-harbor-41651/app.py",
+		"/Users/ayduh/chewySpooder/db/schema.rb",
+		"/Users/ayduh/chewySpooder/app/serializers/product_serializer.rb",
+		"/Users/ayduh/chewySpooder/app/serializers/product_serializer",
+		"/Users/ayduh/chewySpooder/app/serializers/product_seralizer",
+		"/Users/ayduh/chewySpooder/db/migrate/20210429175510_create_product_models.rb",
+		"/Users/ayduh/chewySpooder/app/helpers/products_helper.rb",
+		"/Users/ayduh/chewySpooder/app/controllers/application_controller.rb",
+		"/Users/ayduh/chewySpooder/app/models/spider.rb",
+		"/Users/ayduh/chewySpooder/app/assets/config/routes.rb",
+		"/Users/ayduh/chewySpooder/app/views/articles/index.html.erb",
+		"/Users/ayduh/chewySpooder/app/controllers/articles_controller.rb",
+		"/Users/ayduh/Google Drive/02 Personal Development/Job + Work Stuff/resumelatexfiles/duh_allison_technical.tex",
+		"/Users/ayduh/Google Drive/02 Personal Development/Job + Work Stuff/resumelatexfiles/duh_allison_lmstretch.tex",
+		"/Users/ayduh/Google Drive/02 Personal Development/Job + Work Stuff/resumelatexfiles/duh_allison_nontechnical.tex",
+		"/Users/ayduh/Documents/03 - Creativity/Boulder Creek Proj/arcane-harbor-41651/templates/index.html",
+		"/Users/ayduh/Google Drive/02 Personal Development/Job + Work Stuff/2021/Alteryx/duh_allison_alteryx.tex",
+		"/Users/ayduh/Google Drive/08 Filing Cabinet/Job + Work Stuff/resumelatexfiles/duh_allison_technical.tex",
+		"/Users/ayduh/Documents/Boulder Creek Proj/arcane-harbor-41651/app.py",
+		"/Users/ayduh/Documents/Boulder Creek Proj/arcane-harbor-41651/static/css/main.css",
+		"/Users/ayduh/Google Drive/Boulder Creek Proj/arcane-harbor-41651/app.py",
+		"/Users/ayduh/Google Drive/Boulder Creek Proj/app/nederland.py",
+		"/Users/ayduh/Google Drive/Boulder Creek Proj/app/app.py",
+		"/Users/ayduh/Google Drive/08 Filing Cabinet/Job + Work Stuff/resumelatexfiles/duh_allison_deploymentspec.tex",
+		"/Users/ayduh/Google Drive/08 Filing Cabinet/Job + Work Stuff/GIMD/GIMD_LetterofInterest.tex",
+		"/Users/ayduh/Google Drive/08 Filing Cabinet/Job + Work Stuff/Volunteering/allisonduh_resume_AYLF.tex",
+		"/Users/ayduh/Google Drive/08 Filing Cabinet/Job + Work Stuff/Volunteering/AYLF_Duh_LetterofInterest.tex",
+		"/Users/ayduh/Google Drive/08 Filing Cabinet/Job + Work Stuff/Volunteering/GIMD_LetterofInterest.tex",
+		"/Users/ayduh/Google Drive/08 Filing Cabinet/Job + Work Stuff/Volunteering/allisonduh_resume_Bridal.tex",
+		"/Users/ayduh/Google Drive/Boulder Creek Proj/app/templates/layout.html",
+		"/Users/ayduh/Google Drive/Boulder Creek Proj/bouldercreek.sublime-project",
+		"/Users/ayduh/Google Drive/Boulder Creek Proj/Procfile",
+		"/Users/ayduh/Google Drive/Boulder Creek Proj/requirements.txt",
+		"/Users/ayduh/Google Drive/Boulder Creek Proj/app.py",
+		"/Users/ayduh/Google Drive/Boulder Creek Proj/Boulder Creek Floataboat.py",
+		"/Users/ayduh/Google Drive/Boulder Creek Proj/results.csv",
+		"/Users/ayduh/Google Drive/Boulder Creek Proj/templates/index.html",
+		"/Users/ayduh/Google Drive/Boulder Creek Proj/nederland.py",
+		"/Users/ayduh/Google Drive/Boulder Creek Proj/templates/waterlevel.html",
+		"/Users/ayduh/Google Drive/Boulder Creek Floataboat.py",
+		"/Users/ayduh/Library/Application Support/Sublime Text 3/Packages/User/Virtualenv.sublime-settings",
+		"/Users/ayduh/Google Drive/bouldercreek.sublime-project",
+		"/Users/ayduh/Library/Application Support/Sublime Text 3/Packages/User/Conda.sublime-settings",
+		"/Users/ayduh/Library/Application Support/Sublime Text 3/Packages/Virtualenv/Virtualenv.sublime-settings",
+		"/Users/ayduh/Library/Application Support/Sublime Text 3/Packages/User/customCondaVenv.sublime-build",
+		"/Users/ayduh/Library/Application Support/Sublime Text 3/Packages/Conda/Conda.sublime-settings",
+		"/Users/ayduh/Google Drive/08 Filing Cabinet/Job + Work Stuff/Azevtec/Azevtec_EEPos_Duh/Azevtec_EEPos_Duh.tex",
+		"/Users/ayduh/Google Drive/08 Filing Cabinet/Job + Work Stuff/Spectra Logic/duh_allison_resume_EE_Spectra.tex",
+		"/Users/ayduh/Google Drive/08 Filing Cabinet/Job + Work Stuff/Spectra Logic/duh_allison_Spectra_CoverLetter.tex",
+		"/Users/ayduh/Google Drive/08 Filing Cabinet/Job + Work Stuff/GIMD/allisonduh_resume_GIMD.tex",
+		"/Users/ayduh/Google Drive/08 Filing Cabinet/Job + Work Stuff/GIMD/duh_allison_resume_GIMD.tex",
+		"/Users/ayduh/Google Drive/08 Filing Cabinet/Job + Work Stuff/GIMD/GIMD_PersonalStatement.tex",
+		"/Users/ayduh/Google Drive/08 Filing Cabinet/Job + Work Stuff/Tortuga/duh_allison_tortuga.tex",
+		"/Users/ayduh/testappinstal/config/routes.rb",
+		"/Users/ayduh/testappinstal/app/views/welcome/index.html.erb",
+		"/Users/ayduh/testappinstal/config/database.yml",
+		"/Users/ayduh/Google Drive/08 Filing Cabinet/Job + Work Stuff/Coverletters/Azevtec_EEPos_Duh/Azevtec_EEPos_Duh.tex",
+		"/Users/ayduh/Downloads/cover_letter_3/cover_letter_3.tex",
+		"/Users/ayduh/Google Drive/08 Filing Cabinet/Job + Work Stuff/Coverletters/Azevtec_EEPos_Duh.tex",
+		"/Users/ayduh/Google Drive/08 Filing Cabinet/Job + Work Stuff/Coverletters/latex_template_coverletter.tex",
+		"/Users/ayduh/Google Drive/08 Filing Cabinet/Job + Work Stuff/resumelatexfiles/duh_allison_nontechnical.tex",
+		"/Users/ayduh/Google Drive/01 Load Reconfigurable/Theory Work/Reciprocity_draft2.tex",
+		"/Users/ayduh/Google Drive/06 Old Work/Bill MMIC _ GDrive/EUMW presentation figures/fig_generator.tex",
+		"/Users/ayduh/Google Drive/06 Old Work/Bill MMIC _ GDrive/EUMW presentation figures/S11_EUMWfig.pdf_tex",
+		"/Users/ayduh/Google Drive/06 Old Work/Bill MMIC _ GDrive/EUMW presentation figures/S21_EUMWfig.pdf_tex",
+		"/Users/ayduh/Google Drive/06 Old Work/Bill MMIC _ GDrive/bill_adifiles/oct1218/S21_EUMWfig.pdf_tex"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"idea",
+			"post"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"post",
+			"idea"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "archive.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								838,
+								838
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										838,
+										839
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										828,
+										829
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/ayduh/Documents/09 - Filing Cabinet/allisonduh.github.io/_category/rf-work.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 63,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 174.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 138.0
+	},
+	"pinned_build_system": "Packages/Ruby/Ruby.sublime-build",
+	"project": "portfolio.sublime-project",
+	"replace":
+	{
+		"height": 94.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Google Drive/08 Filing Cabinet/Job + Work Stuff/resumelatexfiles/duh_allison_deploymentspec.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
