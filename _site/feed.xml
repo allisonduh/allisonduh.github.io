@@ -6,15 +6,19 @@
 </description>
     <link>http://allisonduh.github.io/</link>
     <atom:link href="http://allisonduh.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 May 2021 18:54:24 -0600</pubDate>
-    <lastBuildDate>Tue, 25 May 2021 18:54:24 -0600</lastBuildDate>
+    <pubDate>Wed, 26 May 2021 11:27:55 -0600</pubDate>
+    <lastBuildDate>Wed, 26 May 2021 11:27:55 -0600</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>Boulder Creek Float-meter</title>
-        <description>&lt;p&gt;Through this project I learned how to make a Flask-based dynamic web application using web-scraping and Python. 
-&lt;!--excerpt--&gt;&lt;/p&gt;
+        <description>&lt;p&gt;This is a toy project I made to track the two-day average of Boulder Creek, down which people like to tube in the summers in Boulder, Colorado. I learned how to make a Flask-based dynamic web application using web-scraping and Python.&lt;/p&gt;
 
+&lt;h2&gt;[Boulder Creek Float-meter](https://arcane-harbor-41651.herokuapp.com/)&lt;h2&gt;
+
+&lt;!--excerpt--&gt;
+
+&lt;/h2&gt;&lt;/h2&gt;
 </description>
         <pubDate>Sat, 01 May 2021 00:00:00 -0600</pubDate>
         <link>http://allisonduh.github.io/2021-05/creek-app</link>
