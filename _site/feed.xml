@@ -2,13 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A Y D</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>Hello, I'm Allison. I play as a rock climber, a dabbler in code, a wood-worker, and volunteer educator. I work as a radio frequency engineer.
 </description>
-    <link>http://starry99.github.io/catbook/</link>
-    <atom:link href="http://starry99.github.io/catbook/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 May 2021 15:56:09 -0400</pubDate>
-    <lastBuildDate>Tue, 04 May 2021 15:56:09 -0400</lastBuildDate>
+    <link>http://allisonduh.github.io/</link>
+    <atom:link href="http://allisonduh.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 25 May 2021 18:54:24 -0600</pubDate>
+    <lastBuildDate>Tue, 25 May 2021 18:54:24 -0600</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Boulder Creek Float-meter</title>
+        <description>&lt;p&gt;Through this project I learned how to make a Flask-based dynamic web application using web-scraping and Python. 
+&lt;!--excerpt--&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 01 May 2021 00:00:00 -0600</pubDate>
+        <link>http://allisonduh.github.io/2021-05/creek-app</link>
+        <guid isPermaLink="true">http://allisonduh.github.io/2021-05/creek-app</guid>
+        
+        
+        <category>coding</category>
+        
+      </item>
     
       <item>
         <title>A High School Syllabus for Asian American Studies</title>
@@ -20,9 +35,9 @@
 
 &lt;p&gt;I have not yet had a chance to teach this as I am still looking for a home for it - if you know of a Chinese school or community that would be interested please reach out! Also, please let me know if you are interested in using the syllabus or have borrowed from it, I would love to hear about how it went and how you would refine it.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 04 May 2020 00:00:00 -0400</pubDate>
-        <link>http://starry99.github.io/catbook/2020-05/syllabus</link>
-        <guid isPermaLink="true">http://starry99.github.io/catbook/2020-05/syllabus</guid>
+        <pubDate>Mon, 04 May 2020 00:00:00 -0600</pubDate>
+        <link>http://allisonduh.github.io/2020-05/syllabus</link>
+        <guid isPermaLink="true">http://allisonduh.github.io/2020-05/syllabus</guid>
         
         
         <category>teaching</category>
@@ -51,9 +66,9 @@ P. Bluem, A. Kiruluta. P.F. Van de Moortele, A. Duh, G. Adriany, and Z. Popovic,
 &lt;p&gt;I contributed work and writing on HFSS numerical solver settings and analysis&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 04 May 2019 00:00:00 -0400</pubDate>
-        <link>http://starry99.github.io/catbook/2019-05/phd_research</link>
-        <guid isPermaLink="true">http://starry99.github.io/catbook/2019-05/phd_research</guid>
+        <pubDate>Sat, 04 May 2019 00:00:00 -0600</pubDate>
+        <link>http://allisonduh.github.io/2019-05/phd_research</link>
+        <guid isPermaLink="true">http://allisonduh.github.io/2019-05/phd_research</guid>
         
         
         <category>graduate-work</category>
@@ -92,9 +107,9 @@ P. Bluem, A. Kiruluta. P.F. Van de Moortele, A. Duh, G. Adriany, and Z. Popovic,
 &lt;/ul&gt;
 
 </description>
-        <pubDate>Thu, 04 May 2017 00:00:00 -0400</pubDate>
-        <link>http://starry99.github.io/catbook/2017-05/ms-teaching</link>
-        <guid isPermaLink="true">http://starry99.github.io/catbook/2017-05/ms-teaching</guid>
+        <pubDate>Thu, 04 May 2017 00:00:00 -0600</pubDate>
+        <link>http://allisonduh.github.io/2017-05/ms-teaching</link>
+        <guid isPermaLink="true">http://allisonduh.github.io/2017-05/ms-teaching</guid>
         
         
         <category>teaching</category>
@@ -109,9 +124,9 @@ P. Bluem, A. Kiruluta. P.F. Van de Moortele, A. Duh, G. Adriany, and Z. Popovic,
 &lt;p&gt;As the lead organizer of WIECEE, I worked with Professor Juliet Gopinath and other student groups to bring a speaker or two each semester, as well as host bi-weekly coffee hours for students to talk and exchange ideas. Each year, the group volunteers at science outreach events such as CU’s Family  Engineering Day. The WIECEE group was generously funded by the CU ECEE department.&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 04 May 2016 00:00:00 -0400</pubDate>
-        <link>http://starry99.github.io/catbook/2016-05/WIECEE</link>
-        <guid isPermaLink="true">http://starry99.github.io/catbook/2016-05/WIECEE</guid>
+        <pubDate>Wed, 04 May 2016 00:00:00 -0600</pubDate>
+        <link>http://allisonduh.github.io/2016-05/WIECEE</link>
+        <guid isPermaLink="true">http://allisonduh.github.io/2016-05/WIECEE</guid>
         
         
         <category>graduate-work</category>
