@@ -2,7 +2,7 @@
 title: A Y D #Your awesome title
 email: #youremail@domain.com
 description: > # this means to ignore newlines until "baseurl"
-  Hello, I'm Allison. I play as a rock climber, a dabbler in code, a wood-worker, and volunteer educator. I work as a radio frequency engineer.
+  Hello, I'm Allison. I have fun as a rock climber, a dabbler in code, a wood-worker, and volunteer educator. I work as a radio frequency engineer.
 
 baseurl: # the subpath of the site
 url: http://allisonduh.github.io # the base hostname & protocol for your site
@@ -48,6 +48,9 @@ defaults:
 
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown 
+
+kramdown:
+  parse_block_html: true
 
 # Filtering Content
 show_drafts: null

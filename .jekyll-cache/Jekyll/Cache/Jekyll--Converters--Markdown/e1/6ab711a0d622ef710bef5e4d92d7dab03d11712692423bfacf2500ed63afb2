@@ -1,0 +1,27 @@
+I"î<p>I completed 30 credits of graduate-level radio frequency engineering coursework at the University of Colorado Boulder to earn my Masterâ€™s Degree including:</p>
+<ul>
+  <li>Waveguides and Transmission Lines</li>
+  <li>Computational Electromagnetics</li>
+  <li>Passive RF Design</li>
+  <li>Active RF Design</li>
+  <li>MMIC Design</li>
+</ul>
+
+<p>Here are some of the final reports and projects from my coursework. 
+<!--excerpt--></p>
+
+<h3 id="design-of-a-5-ghz-harmonic-injection-power-amplifier-for-linearity-and-efficiency"><a href="/download/Duh_Allison_5024Final.pdf">Design of a 5 GHz Harmonic Injection Power Amplifier for Linearity and Efficiency</a></h3>
+<p>Designed in Keysight ADS.</p>
+
+<h3 id="study-of-mutual-coupling-in-array-antennas"><a href="/download/duh_antennacourse_final.pdf">Study of Mutual Coupling in Array Antennas</a></h3>
+<p>Completed with HFSS Simulation, validated with FEKO, and additional post-processing of data with MATLAB.</p>
+
+<h3 id="a-5-ghz-58-w-class-a-gan-mmic-power-amplifier"><a href="/download/duh-actives-mmicfinal.pdf">A 5-GHz 5.8-W Class-A GaN MMIC Power Amplifier</a></h3>
+<p>Designed with NI AWR Microwave Office using the TriQuint 0.25um GaN 3MI Design Process.</p>
+
+<h3 id="independent-study-in-mmic-design"><a href="/download/SpringIndepStudy_Duh.pdf">Independent Study in MMIC Design</a></h3>
+<p>Designed in Qorvo GaAs process QP25GEN2.</p>
+
+<h3 id="fundamentals-of-rf-measurements"><a href="/download/duh_rfmeasreport.pdf">Fundamentals of RF Measurements</a></h3>
+
+:ET

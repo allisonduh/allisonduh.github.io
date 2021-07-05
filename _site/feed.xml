@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A Y D</title>
-    <description>Hello, I'm Allison. I play as a rock climber, a dabbler in code, a wood-worker, and volunteer educator. I work as a radio frequency engineer.
+    <description>Hello, I'm Allison. I have fun as a rock climber, a dabbler in code, a wood-worker, and volunteer educator. I work as a radio frequency engineer.
 </description>
     <link>http://allisonduh.github.io/</link>
     <atom:link href="http://allisonduh.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 May 2021 11:37:00 -0600</pubDate>
-    <lastBuildDate>Wed, 26 May 2021 11:37:00 -0600</lastBuildDate>
+    <pubDate>Mon, 05 Jul 2021 09:35:27 -0600</pubDate>
+    <lastBuildDate>Mon, 05 Jul 2021 09:35:27 -0600</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -50,29 +50,71 @@
     
       <item>
         <title>RF Hybrid Amplifier</title>
-        <description>&lt;p&gt;In 2019 I left my doctoral program at the University of Colorado Boulder with my M.S. in Electromagnetics Engineering and four years of research experience in hybrid solid-state power amplifier design. During my time there, I presented at two conferences and contributed to two T-MTT papers. Forever grateful to have worked with my colleagues in the department and to have been advised and funded by my supporting advisor Dr. Taylor Barton and main advisor Dr. Zoya Popovic!&lt;/p&gt;
-&lt;!--excerpt--&gt;
-&lt;p&gt;I also taught summer classes to middle-schoolers in optics, electromagnetics, and Arduino circuits and was awarded my department’s Community Development Award twice for my work as an organizer for the Women in ECEE student interest group. Graduate school was an incredibly powerful and difficult experience, but I came away with a delight and newfound appreciation for teaching and teachers, III-V power amplifier design knowledge from the best of the best, and an ability to do Keysight ADS shenanigans like nobody’s business.&lt;/p&gt;
+        <description>&lt;p&gt;In 2019 I left my doctoral program at the University of Colorado Boulder with my M.S. in Electromagnetics Engineering and four years of research experience in hybrid solid-state power amplifier design. During my time there, I presented at two conferences and contributed to two T-MTT papers. Forever grateful to have worked with my colleagues in the department and to have been advised and funded by my supporting advisor Dr. Taylor Barton and main advisor Dr. Zoya Popovic!
+&lt;!--excerpt--&gt;&lt;/p&gt;
 
-&lt;h2&gt;Carrier Aggregation Signal Testing&lt;/h2&gt;
-&lt;p&gt;This T-MTT journal paper uses the dual-band dual-load amplifier previously presented at RWW 2018 as a test piece for Dr. Tommaso Cappello’s novel signal generating algorithm.&lt;/p&gt;
+&lt;p&gt;I also taught summer classes to middle-schoolers in optics, electromagnetics, and Arduino circuits and was awarded my department’s Community Development Award twice for my work as an organizer for the Women in ECEE student interest group. Graduate school was an incredibly powerful and difficult experience, and I came away with a delight and newfound appreciation for teaching and teachers, III-V power amplifier design knowledge from the best of the best, and an ability to do Keysight ADS shenanigans like nobody’s business.&lt;/p&gt;
 
-&lt;h2&gt;Dual-band Dual-Load Amplifier&lt;/h2&gt;
+&lt;h2 id=&quot;mmic-probing-and-testing&quot;&gt;MMIC Probing and Testing&lt;/h2&gt;
+&lt;p&gt;A visiting colleague designed a MMIC but returned to his home university before the MMIC run was completed and the chips returned. Along with a fellow student I used our lab probe station to perform power and efficiency measurements on the design and presented it at &lt;a href=&quot;/download/duh_mmic.pdf&quot;&gt;European Microwave Week 2019.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;carrier-aggregation-signal-testing&quot;&gt;Carrier Aggregation Signal Testing&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/download/duh_tmtt.pdf&quot;&gt;This T-MTT journal paper&lt;/a&gt; uses the dual-band dual-load amplifier previously presented at RWW 2018 as a test piece for Dr. Tommaso Cappello’s novel signal generating algorithm.&lt;/p&gt;
+
+&lt;h2 id=&quot;dual-band-dual-load-amplifier&quot;&gt;Dual-band Dual-load Amplifier&lt;/h2&gt;
 &lt;p&gt;This paper was presented at URSI and RWW 2018, and details a 3.5/5.9 GHz output matching network I designed for a 6W Cree device and power-added efficiency.&lt;/p&gt;
 
-&lt;p&gt;I measured the best PAE after the paper submission deadline but was able to present it at the conferences. My output power ultimately was  36.7/37.1 dBm  at the 3.5/5.9GHz respectively, and PAE of  40.4%/39.9%  with a 5% frequency shift in the upper band.&lt;/p&gt;
+&lt;p&gt;I measured the best PAE after the paper submission deadline but was able to present it at the conferences. My output power ultimately was  36.7/37.1 dBm  at the 3.5/5.9GHz respectively, and PAE of 40.4%/39.9%  with a 5% frequency shift in the upper band.&lt;/p&gt;
 
-&lt;p&gt;Read more: &quot;A 3.5/5.9-GHz Dual-Band Output Matching Network for an Efficiency-Optimized Multiband Power Amplifier,” A. Duh, S. Rahimizadeh, T. Barton, and Z. Popovic, in IEEE Topical Conf. on Power Amplifiers for Wireless and Radio Applications, Anaheim, CA, 2018.&lt;/p&gt;
+&lt;p&gt;Read more: &lt;a href=&quot;/download/duh_rww.pdf&quot;&gt;“A 3.5/5.9-GHz Dual-Band Output Matching Network for an Efficiency-Optimized Multiband Power Amplifier,” A. Duh, S. Rahimizadeh, T. Barton, and Z. Popovic, in IEEE Topical Conf. on Power Amplifiers for Wireless and Radio Applications, Anaheim, CA, 2018.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Contributed to:
-P. Bluem, A. Kiruluta. P.F. Van de Moortele, A. Duh, G. Adriany, and Z. Popovic, Patch-Probe Excitation for Ultrahigh Magnetic Field Wide-Bore MRI,” in IEEE Transactions on Microwave Theory and Techniques, vol. 65, no. 7, pp. 2547-2557, July 2017.&lt;/p&gt;
+&lt;a href=&quot;/download/duh_mri.pdf&quot;&gt;P. Bluem, A. Kiruluta. P.F. Van de Moortele, A. Duh, G. Adriany, and Z. Popovic, Patch-Probe Excitation for Ultrahigh Magnetic Field Wide-Bore MRI,” in IEEE Transactions on Microwave Theory and Techniques, vol. 65, no. 7, pp. 2547-2557, July 2017.&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;I contributed work and writing on HFSS numerical solver settings and analysis&lt;/p&gt;
+&lt;p&gt;I contributed work and writing on HFSS numerical solver settings and analysis.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 04 May 2019 00:00:00 -0600</pubDate>
         <link>http://allisonduh.github.io/2019-05/phd_research</link>
         <guid isPermaLink="true">http://allisonduh.github.io/2019-05/phd_research</guid>
+        
+        
+        <category>graduate-work</category>
+        
+      </item>
+    
+      <item>
+        <title>Graduate RF Coursework</title>
+        <description>&lt;p&gt;I completed 30 credits of graduate-level radio frequency engineering coursework at the University of Colorado Boulder to earn my Master’s Degree including:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Waveguides and Transmission Lines&lt;/li&gt;
+  &lt;li&gt;Computational Electromagnetics&lt;/li&gt;
+  &lt;li&gt;Passive RF Design&lt;/li&gt;
+  &lt;li&gt;Active RF Design&lt;/li&gt;
+  &lt;li&gt;MMIC Design&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here are some of the final reports and projects from my coursework. 
+&lt;!--excerpt--&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;design-of-a-5-ghz-harmonic-injection-power-amplifier-for-linearity-and-efficiency&quot;&gt;&lt;a href=&quot;/download/Duh_Allison_5024Final.pdf&quot;&gt;Design of a 5 GHz Harmonic Injection Power Amplifier for Linearity and Efficiency&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Designed in Keysight ADS.&lt;/p&gt;
+
+&lt;h3 id=&quot;study-of-mutual-coupling-in-array-antennas&quot;&gt;&lt;a href=&quot;/download/duh_antennacourse_final.pdf&quot;&gt;Study of Mutual Coupling in Array Antennas&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Completed with HFSS Simulation, validated with FEKO, and additional post-processing of data with MATLAB.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-5-ghz-58-w-class-a-gan-mmic-power-amplifier&quot;&gt;&lt;a href=&quot;/download/duh-actives-mmicfinal.pdf&quot;&gt;A 5-GHz 5.8-W Class-A GaN MMIC Power Amplifier&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Designed with NI AWR Microwave Office using the TriQuint 0.25um GaN 3MI Design Process.&lt;/p&gt;
+
+&lt;h3 id=&quot;independent-study-in-mmic-design&quot;&gt;&lt;a href=&quot;/download/SpringIndepStudy_Duh.pdf&quot;&gt;Independent Study in MMIC Design&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Designed in Qorvo GaAs process QP25GEN2.&lt;/p&gt;
+
+&lt;h3 id=&quot;fundamentals-of-rf-measurements&quot;&gt;&lt;a href=&quot;/download/duh_rfmeasreport.pdf&quot;&gt;Fundamentals of RF Measurements&lt;/a&gt;&lt;/h3&gt;
+
+</description>
+        <pubDate>Sat, 04 May 2019 00:00:00 -0600</pubDate>
+        <link>http://allisonduh.github.io/2019-05/graduate_rf_coursework</link>
+        <guid isPermaLink="true">http://allisonduh.github.io/2019-05/graduate_rf_coursework</guid>
         
         
         <category>graduate-work</category>
