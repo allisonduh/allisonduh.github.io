@@ -24,6 +24,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.Graph({
+      localGraph: {
+        depth: 2,
+        repulsion: 2000, // Increase for a more spread-out, minimal look
+      },
   ],
   left: [
     Component.PageTitle(),
@@ -41,9 +46,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    
+    //Component.DesktopOnly(Component.TableOfContents()),
+    // Component.Backlinks(),
   ],
 }
 
