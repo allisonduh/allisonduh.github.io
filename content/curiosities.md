@@ -1,3 +1,0 @@
-%% [[aerospace]] %%
-%% [[climbing]] %%
-%% [[teaching]] %%

@@ -1,7 +1,6 @@
 ---
-title: Welcome to Quartz
+title: hello
 ---
 Hello. I'm Allison.
 
-%% [[curiosities]] %%
-%% [[bread crumbs]] %%
+[[curiosities]] 

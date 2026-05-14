@@ -1,3 +1,24 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+.graph h3{
+	display:none
+}
+
+#quartz-body > div.left.sidebar, #quartz-body > div.right.sidebar
+{
+	display:none
+}
+
+
+.page>#quartz-body{
+	display: block
+}
+
+.page>#quartz-body .center, .page>#quartz-body>footer {
+    min-width: unset; 
+    max-width: 700px; /* Your new desired width */
+    width: 100%;
+    margin-left:auto;
+}
