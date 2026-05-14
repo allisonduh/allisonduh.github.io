@@ -1,0 +1,3 @@
+Ruth of [Well-Read Books of Wigtown](https://www.google.com/maps/place/Well-Read+Books+of+Wigtown/@54.8668485,-4.444819,19.37z/data=!4m6!3m5!1s0x4862571c78ef4cc9:0x3729e37eeb83957c!8m2!3d54.8670571!4d-4.444423!16s%2Fg%2F11h3993mlc?entry=tts&g_ep=EgoyMDI2MDUxMS4wIPu8ASoASAFQAw%3D%3D) recommended this title to me during my friend [Amanda](https://www.amandatien.com) and my 10-year-long-dream-fulfilling trip to Wigtown. Ruth is a real one.
+
+It was my first introduction to Geilis Duncan, a woman killed in a witch hunt in the 16th century. This historical figure also pops up in Outlander.

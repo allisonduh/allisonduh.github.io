@@ -33,10 +33,10 @@ export const defaultContentPageLayout: PageLayout = {
     }),*/
     Component.Graph({localGraph: {
       depth: 2,
-      linkDistance:5,
-      repelForce:4,
+      linkDistance:2,
+      repelForce:3,
       zoom:false,  
-      scale:2,
+      scale:1.2,
       drag:true,
       centerForce:1,
     }

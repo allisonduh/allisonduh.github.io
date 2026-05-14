@@ -22,3 +22,39 @@
     width: 100%;
     margin-left:auto;
 }
+
+.book-quilt {
+  /* This creates the columns */
+  column-count: 3; /* Change to 4 or 5 for more columns */
+  column-gap: 15px;
+  width: 100%;
+  margin: 2rem 0;
+
+  @media (max-width: 800px) {
+    column-count: 2; /* Drops to 2 columns on tablets */
+  }
+
+  @media (max-width: 500px) {
+    column-count: 1; /* Drops to 1 column on phones */
+  }
+
+  a {
+    display: inline-block;
+    margin-bottom: 15px; /* Spacing below each book */
+    width: 100%;
+    border-bottom: none !important; /* Removes Quartz link underlines */
+
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      
+      &:hover {
+        transform: scale(1.03);
+        box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+      }
+    }
+  }
+}
