@@ -1,7 +1,10 @@
 ---
-title: digital toolbox
+title: keep in dock
 ---
+Here are some tools I love to use:
 # Amazing Marvin
+
+[Amazing Marvin](https://amazingmarvin.com) is an endlessly customizable to-do list app.
 
 # Zettelkasten + Obsidian
 

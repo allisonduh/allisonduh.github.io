@@ -39,6 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
       scale:1.2,
       drag:true,
       centerForce:1,
+      showTags:false,
     }
   }),
     Component.ArticleTitle(),

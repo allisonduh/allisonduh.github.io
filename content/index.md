@@ -3,8 +3,6 @@ title: hello
 ---
 I'm Allison.
 
-This website is built with [[how this site was built|quartz]]
+This [[site]] is in-progress.
 
-[[books]] I like
-
-take a look through my [[saved folder]]
+For now it's mostly holding some [[book quilt|book]] and [[saved folder|reading recs.]]
